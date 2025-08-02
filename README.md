@@ -5,19 +5,18 @@
 
 This repo isn’t just a certificate checklist — it's a **demonstration of clean code**, **algorithmic thinking**, and **job-level JavaScript mastery**.
 
----
-
-## 🚀 Why This Repo?
-
-- ✅ 100+ JavaScript challenges with clean, readable code  
-- ✅ ES6+, recursion, regular expressions, and real logic  
-- ✅ Ready-to-showcase coding style for interviews & portfolios  
-- ✅ Final projects simulate real-world applications  
-- ✅ Verified by FreeCodeCamp certification  
 
 ---
 
-## 🧩 Projects Included
+## 🧠 Key Topics Mastered
+
+- ✅ JavaScript Fundamentals & ES6+  
+- ✅ Functional Programming & Debugging  
+- ✅ Basic Data Structures (Stacks, Queues, Objects)  
+- ✅ Algorithms (Palindrome, Cipher, Regex, Search, Sort)  
+- ✅ Clean Coding Practices  
+- ✅ DOM + Basic App Logic (Final Project)
+---
 ## 📜 Project List
 
 | No. | Project Name                 | Source Code | Live Preview | What makes it unique |
