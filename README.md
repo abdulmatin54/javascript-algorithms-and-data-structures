@@ -33,7 +33,7 @@ This repo isn’t just a certificate checklist — it's a **demonstration of cle
 
 | No. | Project Name                 | Source Code | Live Preview | What makes it unique |
 |-----|------------------------------|-------------|--------------|--------------------|
-| 01  | **Build a Palindrome Checker**     | [View Code]() | [Live Demo]() | Uses regex, string manipulation, and logic  |
+| 01  | **Build a Palindrome Checker**     | [View Code](https://github.com/abdulmatin54/javascript-algorithms-and-data-structures/tree/main/build%20a%20palindrome%20checker) | [Live Demo](https://abdulmatin54.github.io/javascript-algorithms-and-data-structures/build%20a%20palindrome%20checker/index.html) | Uses regex, string manipulation, and logic  |
 | 02  | **Build a Roman Numeral Converter**     | [View Code]() | [Live Demo]() | Maps, conditionals, and algorithmic patterns  |
 | 03  | **Build a Telephone Number Validator**    | [View Code]() | [Live Demo]() | Regex-heavy validation logic |
 | 04  | **Build a Cash Register**     | [View Code](https://github.com/abdulmatin54/javascript-algorithms-and-data-structures/tree/main/build%20a%20cash%20register) | [Live Demo](https://abdulmatin54.github.io/javascript-algorithms-and-data-structures/build%20a%20cash%20register/index.html) | Advanced conditionals, precision math, object logic  |
