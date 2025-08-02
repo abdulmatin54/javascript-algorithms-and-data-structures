@@ -17,27 +17,16 @@ This repo isn’t just a certificate checklist — it's a **demonstration of cle
 
 ---
 
-## 🧠 Key Topics Mastered
-
-- ✅ JavaScript Fundamentals & ES6+  
-- ✅ Functional Programming & Debugging  
-- ✅ Basic Data Structures (Stacks, Queues, Objects)  
-- ✅ Algorithms (Palindrome, Cipher, Regex, Search, Sort)  
-- ✅ Clean Coding Practices  
-- ✅ DOM + Basic App Logic (Final Project)
-
----
-
 ## 🧩 Projects Included
 ## 📜 Project List
 
 | No. | Project Name                 | Source Code | Live Preview | What makes it unique |
 |-----|------------------------------|-------------|--------------|--------------------|
 | 01  | **Build a Palindrome Checker**     | [View Code](https://github.com/abdulmatin54/javascript-algorithms-and-data-structures/tree/main/build%20a%20palindrome%20checker) | [Live Demo](https://abdulmatin54.github.io/javascript-algorithms-and-data-structures/build%20a%20palindrome%20checker/index.html) | Uses regex, string manipulation, and logic  |
-| 02  | **Build a Roman Numeral Converter**     | [View Code]() | [Live Demo]() | Maps, conditionals, and algorithmic patterns  |
-| 03  | **Build a Telephone Number Validator**    | [View Code]() | [Live Demo]() | Regex-heavy validation logic |
+| 02  | **Build a Roman Numeral Converter**     | [View Code](https://github.com/abdulmatin54/javascript-algorithms-and-data-structures/tree/main/build%20a%20roman%20numeral%20converter) | [Live Demo](https://abdulmatin54.github.io/javascript-algorithms-and-data-structures/build%20a%20roman%20numeral%20converter/index.html) | Maps, conditionals, and algorithmic patterns  |
+| 03  | **Build a Telephone Number Validator**    | [View Code](https://github.com/abdulmatin54/javascript-algorithms-and-data-structures/tree/main/build%20a%20telephone%20number%20validator) | [Live Demo](https://abdulmatin54.github.io/javascript-algorithms-and-data-structures/build%20a%20telephone%20number%20validator/index.html) | Regex-heavy validation logic |
 | 04  | **Build a Cash Register**     | [View Code](https://github.com/abdulmatin54/javascript-algorithms-and-data-structures/tree/main/build%20a%20cash%20register) | [Live Demo](https://abdulmatin54.github.io/javascript-algorithms-and-data-structures/build%20a%20cash%20register/index.html) | Advanced conditionals, precision math, object logic  |
-| 05  | **Build an RPG Creature Search App**  | [View Code]() | [Live Demo]() | DOM manipulation, fetch API, interactive design |
+| 05  | **Build an RPG Creature Search App**  | [View Code](https://github.com/abdulmatin54/javascript-algorithms-and-data-structures/tree/main/build%20an%20RPG%20creature%20search%20app) | [Live Demo](https://abdulmatin54.github.io/javascript-algorithms-and-data-structures/build%20an%20RPG%20creature%20search%20app/index.html) | DOM manipulation, fetch API, interactive design |
 
 > 📁 _All solutions follow clean, modular code patterns with real-world naming and logic._
 
