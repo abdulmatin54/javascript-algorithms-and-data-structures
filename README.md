@@ -29,14 +29,15 @@ This repo isn’t just a certificate checklist — it's a **demonstration of cle
 ---
 
 ## 🧩 Projects Included
+## 📜 Project List
 
-| No. | Project Name                     | Solution Link                                  |
-| --- | -------------------------------- | ---------------------------------------------- |
-| 1   | ✅ **Palindrome Checker**        | [View Solution](./projects/palindrome.js)      |
-| 2   | ✅ **Roman Numeral Converter**   | [View Solution](./projects/romanConverter.js)  |
-| 3   | ✅ **Telephone Number Validator**| [View Solution](./projects/phoneValidator.js)  |
-| 4   | ✅ **Cash Register**             | [View Solution](./projects/cashRegister.js)    |
-| 5   | ✅ **RPG Creature Search App**   | [View Solution](./projects/rpgSearchApp.js)    |
+| No. | Project Name                 | Source Code | Live Preview | What makes it unique |
+|-----|------------------------------|-------------|--------------|--------------------|
+| 01  | **Build a Palindrome Checker**     | [View Code]() | [Live Demo]() | Uses regex, string manipulation, and logic  |
+| 02  | **Build a Roman Numeral Converter**     | [View Code]() | [Live Demo]() | Maps, conditionals, and algorithmic patterns  |
+| 03  | **Build a Telephone Number Validator**    | [View Code]() | [Live Demo]() | Regex-heavy validation logic |
+| 04  | **Build a Cash Register**     | [View Code]() | [Live Demo]() | Advanced conditionals, precision math, object logic  |
+| 05  | **Build an RPG Creature Search App**  | [View Code]() | [Live Demo]() | DOM manipulation, fetch API, interactive design |
 
 > 📁 _All solutions follow clean, modular code patterns with real-world naming and logic._
 
